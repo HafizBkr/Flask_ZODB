@@ -1,0 +1,6 @@
+Flask==2.3.2
+ZODB==5.8.0
+BTrees==4.11.3
+persistent==4.9.0
+bcrypt==4.0.1
+marshmallow==3.19.0
